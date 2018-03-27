@@ -1,12 +1,12 @@
 {
   "name": "NIRI-Node",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "writes tweets and songs to txt file",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tristan Van Hook",
   "license": "ISC"
 }
